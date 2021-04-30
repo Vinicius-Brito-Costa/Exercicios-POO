@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.exe
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.deps.json
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.json
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.dll
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\bin\Debug\net5.0\ContaBancaria.pdb
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.dll
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
+C:\Users\Vinicius\Desktop\POO\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache

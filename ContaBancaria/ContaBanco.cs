@@ -10,23 +10,29 @@ namespace Guanabara.Classes
         private float Saldo;
         private bool StatusConta;
 
-        public ContaBanco(int numeroConta, TipoConta tipoConta, string donoConta, bool statusConta)
+        public ContaBanco(int numeroConta, TipoConta tipoConta, string donoConta)
         {
+            setDonoConta(donoConta);
             setSaldo(0);
             setStatusConta(false);
         }
-        public void abrirConta(int numeroConta, TipoConta tipoConta, string donoConta)
+        public void abrirConta(int numeroConta)
         {
             setNumeroConta(numeroConta);
-            setTipoConta(tipoConta);
-            setDonoConta(donoConta);
+            setTipoConta(getTipoConta());
+            setDonoConta(getDonoConta());
             
             setStatusConta(true);
             if(this.TipoConta == TipoConta.ContaCorrente){
                 setSaldo(50);
+                Console.WriteLine("Conta corrente aberta com sucesso.");
             }
             else if(this.TipoConta == TipoConta.ContaPoupanca){
                 setSaldo(150);
+                Console.WriteLine("Conta poupança aberta com sucesso.");
+            }
+            else{
+                Console.WriteLine("Erro ao abrir conta.");
             }
         }
         public void fecharConta(){
@@ -65,10 +71,10 @@ namespace Guanabara.Classes
         public void PagarMensalidade(){
             if(this.StatusConta == true){
                 float valor = 0;
-                if(GetTipoConta() == TipoConta.ContaCorrente){
+                if(getTipoConta() == TipoConta.ContaCorrente){
                     valor = 12;
                 }
-                else if( GetTipoConta() == TipoConta.ContaPoupanca){
+                else if( getTipoConta() == TipoConta.ContaPoupanca){
                     valor = 20;
                 }
                 Sacar(valor);
@@ -88,7 +94,7 @@ namespace Guanabara.Classes
         {
             this.TipoConta = tipoConta;
         }
-        public TipoConta GetTipoConta(){
+        public TipoConta getTipoConta(){
             return this.TipoConta;
         }
         public void setDonoConta(string donoConta)
@@ -110,7 +116,17 @@ namespace Guanabara.Classes
             this.StatusConta = statusConta;
         }
         public bool getStatusConta(){
-            return this.Saldo;
+            return this.StatusConta;
+        }
+        public override string ToString(){
+            string Info = "----------------Conta----------------";
+            Info += $"\nNome: {getDonoConta()}";
+            Info += $"\nStatus da conta: {(getStatusConta() ? "Ativo" : "Inativo")}";
+            Info += $"\nTipo: {getTipoConta()}";
+            Info += $"\nNumero da conta: {getNumeroConta()}";
+            Info += $"\nSaldo: {getSaldo()}";
+            Info += $"\n-------------------------------------";
+            return Info;
         }
     }
 }
