@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.exe
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.deps.json
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.runtimeconfig.json
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.dll
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\ref\PokemonDigimon.dll
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\bin\Debug\net5.0\PokemonDigimon.pdb
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.dll
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\ref\PokemonDigimon.dll
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.pdb
+C:\Users\Vinicius\Desktop\POO\PokemonDigimon\obj\Debug\net5.0\PokemonDigimon.genruntimeconfig.cache

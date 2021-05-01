@@ -5,3 +5,4 @@
 
 ### Lista de exercícios:
 - [Conta de banco](./ContaBancaria)
+- [Pokemon e Digimon](./PokemonDigimon)
