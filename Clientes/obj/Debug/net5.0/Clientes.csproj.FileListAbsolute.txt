@@ -1,0 +1,16 @@
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.exe
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.deps.json
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.runtimeconfig.json
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.dll
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\ref\Clientes.dll
+C:\Users\Vinicius\Desktop\POO\Clientes\bin\Debug\net5.0\Clientes.pdb
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.dll
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\ref\Clientes.dll
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.pdb
+C:\Users\Vinicius\Desktop\POO\Clientes\obj\Debug\net5.0\Clientes.genruntimeconfig.cache
