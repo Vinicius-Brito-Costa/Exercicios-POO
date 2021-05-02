@@ -1,6 +1,6 @@
 namespace Clientes.Classes
 {
-    public abstract class Pessoa
+    public class Pessoa
     {
         private string Nome;
         private string DataNascimento;
